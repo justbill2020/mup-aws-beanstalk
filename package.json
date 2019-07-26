@@ -33,7 +33,7 @@
     "eslint-plugin-react": "^7.14.3",
     "gfm-code-blocks": "^1.0.0",
     "mocha": "^6.2.0",
-    "mup": "^1.4.6",
+    "justbill2020/meteor-up#master": "^1.4.6",
     "shelljs": "^0.8.3"
   },
   "dependencies": {
